@@ -2,3 +2,26 @@ body {
     margin: 0;
 }
 
+#heading-one {
+color: aqua;
+background-color: blueviolet;
+font-weight: bold;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: inherit;
+}
+
+#heading-two{
+    color: rgb(241, 49, 203);
+    background-color: bisque;
+    font-weight: bold;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+#heading-tres{
+    color: rgb(31, 41, 226);
+    background-color: aquamarine;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
