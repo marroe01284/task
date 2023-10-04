@@ -1,13 +1,16 @@
 body {
-    margin: 0;
+    margin: 12px;
+    background-image: url("image/1301437.jpg");
 }
-
+/* this is my heading color*/
 #heading-one {
 color: aqua;
 background-color: blueviolet;
 font-weight: bold;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-style: inherit;
+width: 200px;
+
 }
 
 #heading-two{
@@ -16,6 +19,7 @@ font-style: inherit;
     font-weight: bold;
     font-family: fantasy;
     font-style: italic;
+    border-style: solid;
 }
 
 #heading-tres{
@@ -24,4 +28,33 @@ font-style: inherit;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: oblique;
+}
+
+.generic-heading{
+    font-size: 42px;
+}
+
+.button-one{
+    padding: 8px;
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 8px;
+    margin: 12px;
+}
+
+p{
+    background-color: blueviolet;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.main-logo{
+    font-size: 64px;
+    color: 4909D2;
+    border-style: solid;
+    border-color: 9B6CFE;
+    border-width: 2px;
+    margin-top: 36px;
+    margin-left: 70px;
+    margin-right: 892px;
+
 }
